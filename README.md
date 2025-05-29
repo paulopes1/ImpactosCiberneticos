@@ -29,4 +29,3 @@ Usuários devem se cadastrar e fazer login para acessar o sistema.
 - Código limpo e comentado
 
 ---
-Desenvolvido para o projeto de Impactos e Ameaças Cibernéticas
