@@ -1,0 +1,14 @@
+C:\Users\playe\Downloads\ImpactoCiberneticoFalhasEnergia\bin\Debug\net9.0\ImpactoCiberneticoFalhasEnergia.exe
+C:\Users\playe\Downloads\ImpactoCiberneticoFalhasEnergia\bin\Debug\net9.0\ImpactoCiberneticoFalhasEnergia.deps.json
+C:\Users\playe\Downloads\ImpactoCiberneticoFalhasEnergia\bin\Debug\net9.0\ImpactoCiberneticoFalhasEnergia.runtimeconfig.json
+C:\Users\playe\Downloads\ImpactoCiberneticoFalhasEnergia\bin\Debug\net9.0\ImpactoCiberneticoFalhasEnergia.dll
+C:\Users\playe\Downloads\ImpactoCiberneticoFalhasEnergia\bin\Debug\net9.0\ImpactoCiberneticoFalhasEnergia.pdb
+C:\Users\playe\Downloads\ImpactoCiberneticoFalhasEnergia\obj\Debug\net9.0\ImpactoCiberneticoFalhasEnergia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\playe\Downloads\ImpactoCiberneticoFalhasEnergia\obj\Debug\net9.0\ImpactoCiberneticoFalhasEnergia.AssemblyInfoInputs.cache
+C:\Users\playe\Downloads\ImpactoCiberneticoFalhasEnergia\obj\Debug\net9.0\ImpactoCiberneticoFalhasEnergia.AssemblyInfo.cs
+C:\Users\playe\Downloads\ImpactoCiberneticoFalhasEnergia\obj\Debug\net9.0\ImpactoCiberneticoFalhasEnergia.csproj.CoreCompileInputs.cache
+C:\Users\playe\Downloads\ImpactoCiberneticoFalhasEnergia\obj\Debug\net9.0\ImpactoCiberneticoFalhasEnergia.dll
+C:\Users\playe\Downloads\ImpactoCiberneticoFalhasEnergia\obj\Debug\net9.0\refint\ImpactoCiberneticoFalhasEnergia.dll
+C:\Users\playe\Downloads\ImpactoCiberneticoFalhasEnergia\obj\Debug\net9.0\ImpactoCiberneticoFalhasEnergia.pdb
+C:\Users\playe\Downloads\ImpactoCiberneticoFalhasEnergia\obj\Debug\net9.0\ImpactoCiberneticoFalhasEnergia.genruntimeconfig.cache
+C:\Users\playe\Downloads\ImpactoCiberneticoFalhasEnergia\obj\Debug\net9.0\ref\ImpactoCiberneticoFalhasEnergia.dll
